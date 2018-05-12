@@ -1,4 +1,8 @@
 _repo: Palestine-or-the-Holy-Land-From-the-Earliest-Period-to-the-Present-Time_8860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Russell, Michael
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2900'
     url: http://www.gutenberg.org/2009/agents/2900
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8860#Palestine-or-the-Holy-Land-From-the-Earliest-Period-to-the-Present-Time
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
